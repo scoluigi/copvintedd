@@ -2,7 +2,7 @@
   "name": "vinted-discord-bot",
   "version": "2.0.0",
   "main": "index.js",
-  "author": "sco_luigi",
+  "author": "clemsytoff",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
